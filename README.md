@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there! 👋 I'm Jana (pron: yah-nuh), a Sound Designer 🎧
 
-<!--
-**jnhns/jnhns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📸 Museum specimen photographer and 🎧 Sound designer by day, accidental web developer by... well, today
+- 🤷‍♀️ Honestly have no idea what I'm doing with code, but somehow got a website working
+- 🚀 Just launched [opneem.co.za](https://opneem.co.za) (and I'm as surprised as you are that it works)
+- 🔧 My approach: try stuff, break stuff, Google how to fix stuff, repeat
+- 📍 South Africa
 
-Here are some ideas to get you started:
+## Current Status
+- ✅ Successfully didn't break GitHub (yet)
+- 🎯 Goal: Keep my website running and work on game audio projects without accidentally deleting the internet
+- 🎮 Exploring the wild world of interactive audio design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- **[Opneem](https://opneem.co.za)** - My first venture into web development 🎉
+- **Sound Design Work** - The thing I actually know how to do
+- **Museum Photography** - Capturing specimens that can't run away
+- **Game Audio** - Making virtual worlds sound less virtual
+
+## Skills
+- 🎵 Sound Design & Audio Production 
+- 📷 Specimen photography
+- ✂️ Video Editing 
+- 💻 Breaking code creatively
+- 🔍 Professional Googler of error messages
+
+## Fun Facts
+- 💨 Started editing fart sound effects from the age of 13 (peak comedy achieved early)
+- ⏰ I once spent 3 hours figuring out why my website showed HTML code instead of... a website
+- 👂 I have undiagnosed sensory sensitivity (sound) - ironic career choice, I know
+- 🦋 I photograph things that used to be alive for museums (they're excellent models)
+- 🎲 Currently trying to make game worlds sound as chaotic as my coding process
+- ☕ Powered by curiosity, caffeine, and the occasional existential crisis about technology
+
+---
+🐞
